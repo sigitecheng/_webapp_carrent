@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/_webapp_carrent/static/css/main.d4694fec.css",
-    "main.js": "/_webapp_carrent/static/js/main.3b1d86ff.js",
+    "main.js": "/_webapp_carrent/static/js/main.2a5aeb26.js",
     "static/media/remixicon.svg?t=1590207869815": "/_webapp_carrent/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "/_webapp_carrent/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/_webapp_carrent/static/media/remixicon.f2616f597cf98f38d234.ttf",
@@ -10,10 +10,10 @@
     "static/media/ava-2.jpg": "/_webapp_carrent/static/media/ava-2.11e918c656d0c7851624.jpg",
     "static/media/ava-4.jpg": "/_webapp_carrent/static/media/ava-4.5f15524f7b3f80a834df.jpg",
     "static/media/remixicon.woff?t=1590207869815": "/_webapp_carrent/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/toyota1.png": "/_webapp_carrent/static/media/toyota1.4db8c1344c043fb57e50.png",
     "static/media/remixicon.woff2?t=1590207869815": "/_webapp_carrent/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "static/media/slider-2.jpg": "/_webapp_carrent/static/media/slider-2.4cd97469474175a97a63.jpg",
     "static/media/slider-3.jpg": "/_webapp_carrent/static/media/slider-3.ed96ff21726e81c10f40.jpg",
-    "static/media/toyota-offer-2.png": "/_webapp_carrent/static/media/toyota-offer-2.861de085d1c782df9e9d.png",
     "static/media/service-details-2.jpg": "/_webapp_carrent/static/media/service-details-2.00361f5f1d08630445c7.jpg",
     "static/media/service-details-1.jpg": "/_webapp_carrent/static/media/service-details-1.3e079d762e0b9da70bc9.jpg",
     "static/media/alider-1.jpg": "/_webapp_carrent/static/media/alider-1.df185de6fe26ce7346f2.jpg",
@@ -24,10 +24,10 @@
     "static/media/slick.woff": "/_webapp_carrent/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/_webapp_carrent/index.html",
     "main.d4694fec.css.map": "/_webapp_carrent/static/css/main.d4694fec.css.map",
-    "main.3b1d86ff.js.map": "/_webapp_carrent/static/js/main.3b1d86ff.js.map"
+    "main.2a5aeb26.js.map": "/_webapp_carrent/static/js/main.2a5aeb26.js.map"
   },
   "entrypoints": [
     "static/css/main.d4694fec.css",
-    "static/js/main.3b1d86ff.js"
+    "static/js/main.2a5aeb26.js"
   ]
 }
